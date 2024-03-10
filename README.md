@@ -4,5 +4,5 @@ Kancolle Guides
 
 
 ## Credit
-(Kancolle Wiki)[https://en.kancollewiki.net]
+[Kancolle Wiki](https://en.kancollewiki.net)
 
